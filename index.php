@@ -31,8 +31,9 @@
                 echo "</div>";
             }
             ?>
+            <a class="btn btn-danger" href="logout.php">Logout</a>
         </div>
-        <a href="logout.php">Logout</a>
+        
 
     </body>
 
